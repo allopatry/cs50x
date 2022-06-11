@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: O(n^2), Omega(n)
+
+sort2 uses: Merge sort
+
+How do you know?: O(n log n), Omega(n log n)
+
+sort3 uses: Selection sort
+
+How do you know?: O(n^2), Omega(n^2)
