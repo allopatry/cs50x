@@ -26,8 +26,6 @@ int main(void)
     // get_long will only accept integers
     long card_num = get_long("Number: ");
 
-    // long card_num = 4222222222223;
-
     int length, d1, d2;
     long card_temp = card_num;
 
