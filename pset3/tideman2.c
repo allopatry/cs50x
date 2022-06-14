@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// Same as my tideman.c program, but with extra print functions. Uncomment those printf lines to better understand how this program works.
 // Takes inspiration from: https://joseph28robinson.medium.com/cs50-pset3-tideman-87f22f0f0bc3
 // string.h header added to allow for strcmp function
 
